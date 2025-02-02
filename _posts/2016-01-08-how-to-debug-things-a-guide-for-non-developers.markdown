@@ -2,7 +2,7 @@
 layout: post
 title: "How to debug things. A guide for non-developers"
 date: 2016-01-08 16:17:54 +0000
-categories: culture
+categories: how-to
 ---
 
 ![Maybe it is cosmic rays (image source: nasamarshall)](https://miro.medium.com/v2/resize:fit:4092/format:webp/1*PrtekvLGAXTzodX513D04Q.jpeg)
