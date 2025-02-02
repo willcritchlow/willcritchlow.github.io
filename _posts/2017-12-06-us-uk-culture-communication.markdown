@@ -3,6 +3,7 @@ layout: post
 title: "Working between the US and the UK"
 date: 2017-12-06
 categories: [blog]
+tags: [culture]
 ---
 
 _This post started as an internal message to share with our team some interesting insights and things I’d learned from a talk I attended last week, but as I wrote it, I thought that it might be interesting to a wider audience._
