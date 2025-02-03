@@ -10,7 +10,7 @@ Prior to running SearchPilot, I founded the SEO agency Distilled in 2005 along w
 
 We built a platform for SEO A/B testing and agile changes to large websites which we spun out as an independent business called SearchPilot in February 2020 at the same time as the remainder of the Distilled business (along with SearchLove) was acquired by Brainlabs.
 
-My views may not be those of all (or any!) of the organisations I am associated with.
+This is my personal site. I started it while running Distilled, the company I co-founded in 2005. After selling Distilled, I now run SearchPilot. My views may not be those of all (or any!) of the organisations I am associated with.
 
 You can find me on:
 
