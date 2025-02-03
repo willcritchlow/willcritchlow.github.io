@@ -5,7 +5,7 @@ date: 2018-05-04 16:17:54 +0000
 categories: culture
 ---
 
-![Photo by Israel Palacio](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*znQJ9QO7vwypsv2mZPiUxQ.jpeg)
+![Photo by Israel Palacio](/assets/images/1_znQJ9QO7vwypsv2mZPiUxQ.webp)
 
 Sometimes, I interrupt people in meetings.
 
