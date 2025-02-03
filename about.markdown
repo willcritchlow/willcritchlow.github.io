@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About - Will Critchlow
+title: About
 permalink: /about/
 ---
 
