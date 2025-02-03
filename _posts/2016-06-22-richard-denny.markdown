@@ -25,9 +25,10 @@ So now it was a month or so before the big day. Our company was getting incorpor
 
 We had each saved up a few thousand pounds to see us through for as long as possible (see: 25, renting, no kids…!) and our future wives luckily still had real jobs. So we looked around for a fairly cheap option for March sun and settled on the beautiful Greek island of Kefalonia:
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*kT-2IgfuQriWN1s4Cvnn2A.jpeg)![We didn’t have the company name Distilled yet. We were still wandd.net. I still have those sunglasses. And those shorts.](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*XpDdBLY-oT84uAPDeKYKdA.jpeg)
-
-![captionless image](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*kB4WOIo3dD8XWDdtth0H8Q.jpeg)![captionless image](https://miro.medium.com/v2/resize:fit:1000/format:webp/1*aRZPFALFlVFyup_e3y8N-A.jpeg)
+![captionless image](/assets/images/1_kT-2IgfuQriWN1s4Cvnn2A.webp)
+![We didn’t have the company name Distilled yet. We were still wandd.net. I still have those sunglasses. And those shorts.](/assets/images/1_XpDdBLY-oT84uAPDeKYKdA.webp)
+![captionless image](/assets/images/1_kB4WOIo3dD8XWDdtth0H8Q.webp)
+![captionless image](/assets/images/1_aRZPFALFlVFyup_e3y8N-A.webp)
 
 So that’s how we ended up in Gatwick airport — on our way on holiday — thinking about the fact that our futures rested on our sales abilities, and contemplating the fact that we really had no idea what we were doing (see Twilio’s [“draw the owl”](http://www.slideshare.net/twilio/scaling-company-values-twilio-techweek-2012/19-Draw_the_Owl_Theres_no/) — and [subsequent slide](http://www.slideshare.net/twilio/scaling-company-values-twilio-techweek-2012/20-Draw_the_Owl_Theres_no)).
 
@@ -36,9 +37,9 @@ The bright green book
 
 We wandered into the airport bookshop (back in the pre-kindle days, of course) and started browsing the business books. We thought that we would maybe pick up a book on sales and it might be useful in getting us started. The only problem was that we didn’t know what we were looking for. Luckily one stood out because it was **bright green**. Because we had no better way of choosing we went for that one:
 
-![Selling to Win](https://miro.medium.com/v2/resize:fit:434/format:webp/1*aW61XlbCY42dOXfG7xM8HQ.jpeg)
+![Selling to Win](/assets/images/1_aW61XlbCY42dOXfG7xM8HQ.webp)
 
-These days you can buy _Selling to Win_ on the Kindle ([Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/) | [Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/)) — though the cover is no longer green even on the paperback.
+These days you can buy _Selling to Win_ on the Kindle ([Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/), [Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/)) — though the cover is no longer green even on the paperback.
 
 What we learned from _Selling to Win_
 -------------------------------------
@@ -70,7 +71,7 @@ The next week, Duncan and I caught a train at about 6am to get out to Moreton-in
 
 And we finally met Richard:
 
-![Richard Denny](https://miro.medium.com/v2/resize:fit:1274/format:webp/1*lqAgVyn-4udcus6ji7VTFA.jpeg)
+![Richard Denny](/assets/images/1_lqAgVyn-4udcus6ji7VTFA.webp)
 
 I suspect it was simply the fact that we’d used his own book against him in some kind of Judo move, but somehow, trapped by our inescapable logic, we sold some few hundred pounds-worth of work to him. I don’t now even recall exactly what that first piece of work was.
 
@@ -82,8 +83,6 @@ Mentoring and growth
 --------------------
 
 Over the following years, Richard would regularly let us know when he was in London, and we’d meet at the Institute of Directors.
-
-![Institute of Directors, Pall Mall (photo credit)](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yFYwoOFNpfHdfnspuKTLOg.jpeg)
 
 He acted like a mentor, like an ad-hoc board member holding us to account for our promises and our plans, and like an advisor. It turns out that he hadn’t only written brightly-coloured sales books, but had also written about teamwork, motivation, leadership and more. Despite his broad experience, my abiding memory is that _everything_ came back to sales. Specifically, I remember a few “Denny-isms”:
 
@@ -98,7 +97,7 @@ Ironically, you can probably also see it in the way we dedicated much of the fol
 This has turned out to be one of the less-actionable posts I’ve written, but if I can extract some lessons that might be useful to others, they’d be:
 
 *   Everyone should learn sales — it’s the fundamentals of business
-*   Get a copy of the book ([Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/) | [Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/))
+*   Get a copy of the book ([Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/), [Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/))
 *   Sometimes no-one has done the ballsy but obvious thing
 *   [#hustle](https://www.distilled.net/manifesto/)
 
