@@ -150,7 +150,7 @@ Getting good at giving and receiving feedback has been most evident internally i
 
 **You’re going to be most proud of things done by other people**
 
-I wrote a [whole post about this](https://medium.com/the-things-of-which-i-m-most-proud-1ca02e5918b7) — including a whole bunch of reasons why you should [come and work at Distilled](https://www.distilled.net/jobs/).
+I wrote a [whole post about this](https://willcritchlow.com/the-things-of-which-im-most-proud/) — including a whole bunch of reasons why you should [come and work at Distilled](https://www.distilled.net/jobs/).
 
 It’s emphasised and highlighted by this amazing post that ex-Distiller [John Doherty](https://twitter.com/dohertyjf) wrote recently about Distilled entitled [the greatest entrepreneurship incubator you’ve never heard of](http://www.johnfdoherty.com/best-entrepreneurship-incubator/):
 
