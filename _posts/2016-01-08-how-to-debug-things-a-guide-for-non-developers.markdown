@@ -50,7 +50,7 @@ There are times when we have to debug a black box, but in general it’s way eas
 
 *   any way of generating log files — from the system itself or the operating system within which it runs
 *   advanced features for power users that expose more of what’s going on
-*   third party tools that burrow under the surface (e.g. I recently found this [android app](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer&hl=en) when trying to figure out why devices were dropping off my home wifi connection)
+*   third party tools that burrow under the surface
 
 Can you isolate it?
 -------------------
