@@ -5,7 +5,7 @@ date: 2015-12-17 16:17:54 +0000
 categories: culture
 ---
 
-![Image credit: Robbie Shade](https://miro.medium.com/v2/resize:fit:4094/format:webp/1*cGXEobRgizarBrsQT604Uw.jpeg)
+![Image credit: Robbie Shade](/assets/images/1_cGXEobRgizarBrsQT604Uw.webp)
 
 I found the book [How Google Works](http://www.howgoogleworks.net/) fascinating — it’s not (much) about the technology, but rather about the people, processes, and systems that keep the organisation working.
 
