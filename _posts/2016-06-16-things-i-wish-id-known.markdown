@@ -5,7 +5,7 @@ date: 2016-06-16 16:17:54 +0000
 categories: lessons
 ---
 
-![L-R (including background): Gordon Meadows, me aged ~17 [#6], Jonny Harker, Steve Ferguson [#10], can’t remember [#11], Adrian Bennett, mum(!), Tom Critchlow (table official)](https://miro.medium.com/v2/resize:fit:4034/format:webp/1*DEzZ8Ejra4uviDKXhryrfw.jpeg)
+![L-R (including background): Gordon Meadows, me aged ~17 [#6], Jonny Harker, Steve Ferguson [#10], can’t remember [#11], Adrian Bennett, mum(!), Tom Critchlow (table official)](/assets/images/1_DEzZ8Ejra4uviDKXhryrfw.webp)
 
 I can’t believe it’s been five years.
 
@@ -17,7 +17,9 @@ I was looking back through old presentations recently and was surprised to reali
 
 Here’s the presentation:
 
-<b>[other]The presentation I gave in 2011[/other]</b>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.slideshare.net/slideshow/embed_code/key/Cq0tq2WNX4EhRb?startSlide=1" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px;max-width: 100%;" allowfullscreen></iframe>
+</div>
 
 Context
 -------
@@ -34,7 +36,7 @@ Into the lessons
 
 We’d grown past £1m in annual revenue by this time, and so I could present a [nice chart](http://www.slideshare.net/willcritchlow/things-i-wish-id-known-8414438/7) showing how long it took, and how tiny those first few years were:
 
-![Overnight success takes years](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*BIcslnCHsytDDLN8G587Nw.png)
+![Overnight success takes years](/assets/images/1_BIcslnCHsytDDLN8G587Nw.webp)
 
 We came of age during the dotcom bubble and bust, and so had some crazily unrealistic expectations of what business growth could be like when we were dreaming about starting our company in 2000 / 2001. I feel like those expectations were dashed in the bust, stomped into the ground by our first couple of years toiling, but that ultimately that made the growth that we had to work for all the more sweet.
 
@@ -56,7 +58,7 @@ In the early days of our company, we had no network. We were 25, had no industry
 
 I love looking back at the image I used to illustrate this point:
 
-![Business friends rock](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*nxxuIUWGBLFEaP72dXATcw.png)
+![Business friends rock](/assets/images/1_nxxuIUWGBLFEaP72dXATcw.webp)
 
 That’s me, my daughter Rachel (about 6 months old at the time) and [Rand](https://twitter.com/randfish). Separated by almost 5,000 miles and 8 timezones, Rand remains someone I look up to, someone I learn from, and someone I can turn to about anything business or personal.
 
@@ -64,7 +66,7 @@ We initially met because I hung out in the early [moz](https://moz.com) communit
 
 **No, you can’t have a pony**
 
-![No you can’t have a pony](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*TmPJj_IS8EGeUCtOHsmf4g.png)
+![No you can’t have a pony](/assets/images/1_TmPJj_IS8EGeUCtOHsmf4g.webp)
 
 It felt like there was a lot less [nonsense being spouted about millennials](http://www.economist.com/news/business/21660110-businesses-should-beware-dubious-generalisations-about-younger-workers-myths-about) back in 2011 than there is today, but at this point, I was trying to fast-track the audience to a realisation it took me a couple of years in the workplace to reach.
 
@@ -91,19 +93,19 @@ I phrased this narrowly at the time — all about getting hired — but the real
 
 [Ed Fry](https://twitter.com/edfryed) can tell the story of how, aged 16, he 3D-printed our logo to impress us and the incredible things he’s gone on to do since then:
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*KguAQe-CuqylOpe5ehTC7g.png)
+![captionless image](/assets/images/1_KguAQe-CuqylOpe5ehTC7g.webp)
 
 **Read these books**
 
-1.  Good to Great [[Amazon UK](https://www.amazon.co.uk/Good-Great-Jim-Collins/dp/0712676090)|[Amazon US](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)]
-2.  Getting Things Done [[Amazon UK](https://www.amazon.co.uk/dp/B00SHL3V8M/)|[Amazon US](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)]
-3.  The E Myth [[Amazon UK](https://www.amazon.co.uk/dp/B000RO9VJK/)|[Amazon US](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)]
+1.  Good to Great [Amazon UK](https://www.amazon.co.uk/Good-Great-Jim-Collins/dp/0712676090)|[Amazon US](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+2.  Getting Things Done [Amazon UK](https://www.amazon.co.uk/dp/B00SHL3V8M/)|[Amazon US](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
+3.  The E Myth [Amazon UK](https://www.amazon.co.uk/dp/B000RO9VJK/)|[Amazon US](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
 
 **Get past cold calls as fast as you can**
 
 The story of our journey to learn sales is a tale for another day (TL;DR — Selling to Win [[Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/)|[Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/)] and its author [Richard Denny](http://www.richarddenny.co.uk/)). But the one thing that we had to break free of was the insistence that cold outbound approaches were the _only_ way we could grow our business:
 
-![Get past cold calls](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*iqtgYCoCrAq2qHas2Jp0xw.png)
+![Get past cold calls](/assets/images/1_iqtgYCoCrAq2qHas2Jp0xw.webp)
 
 In that first 12–24 months we sent a lot of letters, made a lot of cold calls, and knocked on a lot of doors (literally). Our business really took off when we started eating our own dogfood, blogging, and growing our presence and reputation.
 
@@ -111,11 +113,11 @@ In that first 12–24 months we sent a lot of letters, made a lot of cold calls,
 
 There’s a backstory here about the college part that I’ll tell you over a beer one day, but the critical part is the “unfair” advantages part. There are plenty of unethical and immoral temptations that will come your way in the world of business — and it’s worth remembering that a reputation is more easily broken than built. BUT there are so many things that are inappropriate at school (like looking up the answers, doing mutually-beneficial deals, and generally standing on the shoulders of giants) that are to be encouraged once you are out there in the real world. There are no marks for effort, nor for showing your working once you’re being judged on results.
 
-![Give yourself unfair advantages](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*UHpzKLPrixcrSTMl_KWsPQ.png)
+![Give yourself unfair advantages](/assets/images/1_UHpzKLPrixcrSTMl_KWsPQ.webp)
 
 **From here on out, do something you love**
 
-![This one’s self-explanatory I think](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*ZvKs2jfIzzPROsE__C9yNw.png)
+![This one’s self-explanatory I think](/assets/images/1_ZvKs2jfIzzPROsE__C9yNw.webp)
 
 **No-one knows what they’re doing**
 
@@ -160,9 +162,9 @@ I’m proud of those who’ve left Distilled to great things. I’m incredibly p
 
 **There’s some more books you should read**
 
-*   High output management [[Amazon UK](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/)|[Amazon US](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)]
-*   The hard thing about hard things [[Amazon UK](https://www.amazon.co.uk/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/)|[Amazon US](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)]
-*   Five dysfunctions of a team (and indeed everything else by Patrick Lencioni) [[Amazon UK](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756/)|[Amazon US](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/)]
+*   High output management [Amazon UK](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/)|[Amazon US](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
+*   The hard thing about hard things [Amazon UK](https://www.amazon.co.uk/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/)|[Amazon US](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+*   Five dysfunctions of a team (and indeed everything else by Patrick Lencioni) [Amazon UK](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756/)|[Amazon US](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/)
 
 **…and tons more**
 
