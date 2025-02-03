@@ -13,7 +13,7 @@ I try not to, and I’m working on being better at noticing and calling myself o
 
 But I’m definitely not perfect at it.
 
-This is not ideal: I’m a lucky and privileged white dude running a company. I want everyone in meetings to contribute, to feel heard, to **be** heard, to [be safe](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/).
+This is not ideal: I’m a lucky and privileged white dude running a company. I want everyone in meetings to contribute, to feel heard, to **be** heard, to [be safe](https://rework.withgoogle.com/en/guides/understanding-team-effectiveness).
 
 So I keep working on myself. And I _try_ not to ask others to change to fit my arbitrary way of expressing myself. I don’t want you to have to call me out, to speak up louder, to interrupt me back. But recently I’ve hit an interesting edge case and I wonder if anyone else has come up with a good way of dealing with it.
 
