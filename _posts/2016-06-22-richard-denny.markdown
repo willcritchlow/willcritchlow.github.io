@@ -92,7 +92,7 @@ He acted like a mentor, like an ad-hoc board member holding us to account for ou
 
 You can see his influence in the (literally) hundreds of letters we used to hand-address every week (because people are more likely to open their own mail if it’s hand-addressed). In the years we both spent getting up at 5.30am every week to go to BNI breakfast networking meetings. In the thousands of hours I spent walking door to door pitching our services.
 
-Ironically, you can probably also see it in the way we dedicated much of the following decade to escaping outbound sales calls! (You can [read more about that here](https://medium.com/things-i-wish-id-known-f6c7d7691624)). I still see it as the fundamentals though — like learning footwork in basketball or scales in music.
+Ironically, you can probably also see it in the way we dedicated much of the following decade to escaping outbound sales calls! (You can [read more about that here](https://willcritchlow.com/things-i-wish-id-known/)). I still see it as the fundamentals though — like learning footwork in basketball or scales in music.
 
 This has turned out to be one of the less-actionable posts I’ve written, but if I can extract some lessons that might be useful to others, they’d be:
 
