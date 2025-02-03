@@ -5,7 +5,7 @@ date: 2016-01-08 16:17:54 +0000
 categories: how-to
 ---
 
-![Maybe it is cosmic rays (image source: nasamarshall)](https://miro.medium.com/v2/resize:fit:4092/format:webp/1*PrtekvLGAXTzodX513D04Q.jpeg)
+![Maybe it is cosmic rays (image source: nasamarshall)](/assets/images/1_PrtekvLGAXTzodX513D04Q.webp)
 
 The more mechanical and physical something is, the more it tends to be obvious why something isn’t working. It may place you no closer to _fixing_ it, but if you have a flat tire, you know why your car isn’t driving how you want. If your window is broken, you know why there’s a draft.
 
