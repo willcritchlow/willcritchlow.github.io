@@ -103,7 +103,7 @@ I phrased this narrowly at the time — all about getting hired — but the real
 
 **Get past cold calls as fast as you can**
 
-The story of our journey to learn sales is a tale for another day (TL;DR — Selling to Win [[Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/), [Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/)] and its author [Richard Denny](http://www.richarddenny.co.uk/)). But the one thing that we had to break free of was the insistence that cold outbound approaches were the _only_ way we could grow our business:
+The story of our journey to learn sales is a tale for another day (TL;DR — Selling to Win [[Amazon UK](https://www.amazon.co.uk/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/), [Amazon US](https://www.amazon.com/Selling-Win-Richard-Denny-ebook/dp/B00AZJZ5KG/)] and its author [Richard Denny](https://www.koganpage.com/authors/richard-denny)). But the one thing that we had to break free of was the insistence that cold outbound approaches were the _only_ way we could grow our business:
 
 ![Get past cold calls](/assets/images/1_iqtgYCoCrAq2qHas2Jp0xw.webp)
 
