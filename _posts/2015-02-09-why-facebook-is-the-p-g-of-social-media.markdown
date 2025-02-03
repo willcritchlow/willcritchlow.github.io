@@ -5,7 +5,7 @@ date: 2015-02-09 16:17:54 +0000
 categories: thinking
 ---
 
-![captionless image](https://miro.medium.com/v2/resize:fit:2800/format:webp/1*NZtiufKHs6UTuL-cJ5yqZw.png)
+![captionless image](/assets/images/1_NZtiufKHs6UTuL-cJ5yqZw.webp)
 
 …and the opportunity that presents for Yahoo
 
@@ -129,6 +129,6 @@ I suspect that the “emerging markets” are not geographic, but rather psychog
 In summary
 ==========
 
-![Image credit: zoharma / Flickr](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*e8ynke1dBQ6cWM2R0Ao-Sw.jpeg)
+![Image credit: zoharma / Flickr](/assets/images/1_e8ynke1dBQ6cWM2R0Ao-Sw.webp)
 
 I love the diagrams that visualise these corporate connections, and if I’m right, we’ll see a whole bunch of new social media companies with links to Facebook on this kind of diagram, and if I’m even more right, we’ll see just as many with links to Yahoo.
