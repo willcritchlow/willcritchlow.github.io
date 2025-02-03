@@ -5,7 +5,7 @@ date: 2018-12-18
 categories: culture
 ---
 
-![Photo by Caleb George on Unsplash](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*dcT9iRM_gvwVdsyvo9Hbtg.png)
+![Photo by Caleb George on Unsplash](/assets/images/1_dcT9iRM_gvwVdsyvo9Hbtg.webp)
 
 Most of us want to be better at things. One of the things I want to be better at is **leadership**. I’d like to be better both in an abstract “I like learning and improving” kind of a way and also in a “it’s kind of my job and would probably make me more effective” kind of a way.
 
@@ -38,7 +38,7 @@ Speaking of 1:1s, my only weekly meetings are:
 
 I’ve tended to schedule the more strategic meetings (quarterly / annual planning and the like) in a more ad hoc way, but I’d like to be better about the repeated cadence of those.
 
-![The Hard Thing About Hard Things](https://miro.medium.com/v2/resize:fit:530/format:webp/1*y5RWCJCSvql9azdXfirvsg.jpeg)
+![The Hard Thing About Hard Things](/assets/images/1_y5RWCJCSvql9azdXfirvsg.webp)
 
 _The key to a good one-on-one meeting is the understanding that it is the employee’s meeting rather than the manager’s meeting. This is the free-form meeting for all the pressing issues, brilliant ideas, and chronic frustrations that do not fit neatly into status reports, email, and other less personal and intimate mechanisms._
 
