@@ -97,9 +97,9 @@ I phrased this narrowly at the time — all about getting hired — but the real
 
 **Read these books**
 
-1.  Good to Great [Amazon UK](https://www.amazon.co.uk/Good-Great-Jim-Collins/dp/0712676090)|[Amazon US](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
-2.  Getting Things Done [Amazon UK](https://www.amazon.co.uk/dp/B00SHL3V8M/)|[Amazon US](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
-3.  The E Myth [Amazon UK](https://www.amazon.co.uk/dp/B000RO9VJK/)|[Amazon US](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
+1.  Good to Great [Amazon UK](https://www.amazon.co.uk/Good-Great-Jim-Collins/dp/0712676090), [Amazon US](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6)
+2.  Getting Things Done [Amazon UK](https://www.amazon.co.uk/dp/B00SHL3V8M/), [Amazon US](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280)
+3.  The E Myth [Amazon UK](https://www.amazon.co.uk/dp/B000RO9VJK/), [Amazon US](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
 
 **Get past cold calls as fast as you can**
 
@@ -162,9 +162,9 @@ I’m proud of those who’ve left Distilled to great things. I’m incredibly p
 
 **There’s some more books you should read**
 
-*   High output management [Amazon UK](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/)|[Amazon US](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
-*   The hard thing about hard things [Amazon UK](https://www.amazon.co.uk/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/)|[Amazon US](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
-*   Five dysfunctions of a team (and indeed everything else by Patrick Lencioni) [Amazon UK](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756/)|[Amazon US](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/)
+*   High output management [Amazon UK](https://www.amazon.co.uk/High-Output-Management-Andrew-Grove/dp/0679762884/), [Amazon US](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884/)
+*   The hard thing about hard things [Amazon UK](https://www.amazon.co.uk/Hard-Thing-About-Things-Building-ebook/dp/B00DQ845EA/), [Amazon US](https://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/)
+*   Five dysfunctions of a team (and indeed everything else by Patrick Lencioni) [Amazon UK](https://www.amazon.co.uk/Five-Dysfunctions-Team-Leadership-Lencioni/dp/0787960756/), [Amazon US](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/)
 
 **…and tons more**
 
