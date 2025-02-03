@@ -100,7 +100,7 @@ We will also, crucially, see them offer an integrated way to buy ads across thei
 There are some things to learn from Google’s purchase of YouTube
 ----------------------------------------------------------------
 
-Google’s 2006 acquisition of YouTube ([for $1.65 billion](http://techcrunch.com/2006/10/09/google-has-acquired-youtube/)) was arguably a similar play — particularly in that it involved Google learning how to make money from a new form of media. In particular, there are parallels between the forms of in-stream advertising that seems [_made_ for Instagram](http://business.instagram.com/advertising) and the new [ad formats invented by YouTube](https://www.thinkwithgoogle.com/products/youtube-trueview.html).
+Google’s 2006 acquisition of YouTube ([for $1.65 billion](http://techcrunch.com/2006/10/09/google-has-acquired-youtube/)) was arguably a similar play — particularly in that it involved Google learning how to make money from a new form of media. In particular, there are parallels between the forms of in-stream advertising that seems [_made_ for Instagram](http://business.instagram.com/advertising) and the new [ad formats invented by YouTube](https://www.thinkwithgoogle.com/intl/en-apac/marketing-strategies/video/youtube-trueview/).
 
 In particular, it seems likely that:
 
