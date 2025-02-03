@@ -74,7 +74,7 @@ Debugging skills are applicable in the real world as well as in software, but sp
 
 **You win when you find the “impossible” part?**
 
-Through all of these steps, you will eventually come to the part that makes no sense ([science progresses not with eureka, but with “that’s funny”](http://www.americanscientist.org/issues/pub/thats-funny)). In code terms, that’s something like the code snippet where:
+Through all of these steps, you will eventually come to the part that makes no sense (science progresses not with eureka, but with “that’s funny”). In code terms, that’s something like the code snippet where:
 
 ```
 a = 1b = 1a + b == 2 // returns false
