@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I started it while running Distilled, the company I co-founded in 2005.
   After selling Distilled, I now run SearchPilot.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://willcritchlow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://willcritchlow.com"
 twitter_username: willcritchlow
 linkedin_username:  willcritchlow
 permalink: /:title/
