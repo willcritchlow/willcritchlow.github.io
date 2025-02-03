@@ -5,7 +5,7 @@ date: 2015-12-17 16:17:54 +0000
 categories: lessons
 ---
 
-![Image credit: Charles W. Bailey, Jr](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kS8jhGvOq15LhYqE3GZ4HA.jpeg)
+![Image credit: Charles W. Bailey, Jr](/assets/images/1_kS8jhGvOq15LhYqE3GZ4HA.webp)
 
 It’s easy to feel the hate for MBAs — especially if you hang out in the startup or online marketing world (e.g. [1](http://news.ycombinator.com/item?id=2171648), [2](http://news.ycombinator.com/item?id=2160105)).
 
