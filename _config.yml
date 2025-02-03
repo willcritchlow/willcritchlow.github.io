@@ -1,5 +1,4 @@
 title: Will Critchlow. Life, Distilled.
-email: will@willcritchlow.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal site.
   I started it while running Distilled, the company I co-founded in 2005.
@@ -7,7 +6,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://willcritchlow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: willcritchlow
-github_username:  willcritchlow
+linkedin_username:  willcritchlow
 permalink: /:title/
 
 # Build settings
