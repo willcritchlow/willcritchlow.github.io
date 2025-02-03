@@ -9,7 +9,7 @@ _This post started as an internal message to share with our team some interestin
 
 I attended a talk by [Erin Meyer](http://www.erinmeyer.com/) who wrote the book [The Culture Map](http://erinmeyer.com/book/). She’s a professor at INSEAD, and an expert in managing global teams.
 
-![Erin Meyer’s book The Culture Map](https://miro.medium.com/v2/resize:fit:880/format:webp/1*mETdVwbnXNRgWilbQ4nW9Q.png)
+![Erin Meyer’s book The Culture Map](/assets/images/1_mETdVwbnXNRgWilbQ4nW9Q.webp)
 
 I found the whole talk interesting — with tons of anecdotes about global business and differences between cultures — but obviously for me, in my role at Distilled, there were real practical uses for learning more about US and UK communication styles in particular.
 
@@ -44,13 +44,13 @@ Leadership and decision-making
 
 The one area where we see UK / US cultures cross over each other from one side to the other are in the slightly-similar-sounding **leading** and **deciding** dimensions.
 
-![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*0ZUWkGWSnn19ysXoRUuMcg.png)
+![captionless image](/assets/images/1_0ZUWkGWSnn19ysXoRUuMcg.webp)
 
 The UK falls quite middle-of-the road on both — halfway between egalitarian and hierarchical leadership styles and halfway between consensual and top-down decision-making. The US, meanwhile, falls more egalitarian in leadership style, **and yet** more top-down in decision-making.
 
 This really stood out to me, and I was curious to figure out a bit more about what it meant in practice. I found [this great HBR article](https://hbr.org/2017/07/being-the-boss-in-brussels-boston-and-beijing) which laid world cultures out on a 2x2 (I’m a sucker for a 2x2):
 
-![Mapping leadership cultures from to lead across cultures…](https://miro.medium.com/v2/resize:fit:2000/format:webp/1*bk5nieJ6GkWKFf88vn7JKg.png)
+![Mapping leadership cultures from to lead across cultures…](/assets/images/1_bk5nieJ6GkWKFf88vn7JKg.webp)
 
 As with most of the analysis, the UK and US both fall in the same approximate area of the chart when compared to the rest of the world, but it’s in those subtle differences that we find the jarring miscommunications and opportunities to misunderstand one another. Based on a deeper dive into the HBR analysis, we can see that:
 
