@@ -8,11 +8,13 @@ url: "https://willcritchlow.com"
 twitter_username: willcritchlow
 linkedin_username:  willcritchlow
 permalink: /:title/
+google_analytics: G-4HN8PQYCYV
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
