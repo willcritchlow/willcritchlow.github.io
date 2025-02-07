@@ -24,7 +24,7 @@ jobs:
           bundler-cache: true
 
       - name: Install Jekyll dependencies
-        run:
+        run: |
           bundle install
           bundle lock
 
