@@ -24,7 +24,7 @@ jobs:
           bundler-cache: true
 
       - name: Install Jekyll dependencies
-        run: bundle install --no-frozen-lock
+        run: bundle install --no-deployment
 
       - name: Build Jekyll site
         run: bundle exec jekyll build
