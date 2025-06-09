@@ -14,30 +14,27 @@
     }
   }
 
-  // Helper function to set the canonical URL as a parameter for Google Analytics 4.
-  // This allows the canonical URL to be associated with page_view and other events.
-  function setCanonicalUrlForGa4(canonicalUrl) {
+  // Helper function to send the identified canonical URL to Google Analytics 4.
+  // It attempts to auto-detect gtag.js or dataLayer.push.
+  function sendToGa4(canonicalUrl) {
+    const eventName = "canonical_info_ready";
     const paramName = "page_canonical_url";
 
     if (typeof window.gtag === "function") {
-      // For gtag.js: Set a parameter that will be included in subsequent GA4 events.
-      // This script should ideally run before the GA4 config command sends the initial page_view,
-      // or the GA4 configuration must be set up to include this parameter.
-      // Alternatively, disable automatic page_views and send it manually after this parameter is set.
-      window.gtag("set", { [paramName]: canonicalUrl });
-      // console.log(`Canonical Tracker (gtag.js): Set '${paramName}' to '${canonicalUrl}'`);
+      // GA4: Use gtag.js method if available
+      window.gtag("event", eventName, {
+        [paramName]: canonicalUrl,
+      });
     } else if (Array.isArray(window.dataLayer)) {
-      // For GTM: Push the value to the dataLayer.
-      // GTM needs to be configured to create a Data Layer Variable for 'page_canonical_url'
-      // and include it in the relevant GA4 tags (e.g., GA4 Configuration or Event tags).
-      const data = {};
-      data[paramName] = canonicalUrl;
-      window.dataLayer.push(data);
-      // console.log(`Canonical Tracker (GTM): Pushed {'${paramName}': '${canonicalUrl}'} to dataLayer`);
+      // GA4: Use dataLayer.push method for GTM if dataLayer array is available
+      window.dataLayer.push({
+        event: eventName,
+        [paramName]: canonicalUrl,
+      });
     } else {
-      // Neither gtag.js nor dataLayer found, log a warning.
+      // GA4: Neither gtag.js nor dataLayer found, log a warning with the URL that wasn't sent.
       console.warn(
-        `Canonical Tracker: GA4 tracking (gtag.js or GTM dataLayer) not found. Canonical URL identified ('${canonicalUrl}') but not set as a GA4 parameter.`,
+        `Canonical Tracker: GA4 tracking (gtag.js or GTM dataLayer) not found. Canonical URL identified but not sent: ${canonicalUrl}`,
       );
     }
   }
@@ -76,7 +73,7 @@
       );
       if (allCanonicalTags.length > 1) {
         console.warn(
-          `Canonical Tracker: Multiple <link rel="canonical\"> tags found (${allCanonicalTags.length}). Using the first one encountered in the DOM.`,
+          `Canonical Tracker: Multiple <link rel="canonical"> tags found (${allCanonicalTags.length}). Using the first one encountered in the DOM.`,
         );
       }
 
@@ -91,8 +88,8 @@
     }
   }
 
-  // Main function to identify the canonical URL and set it for GA4.
-  function identifyAndSetCanonicalUrl() {
+  // Main function to identify the canonical URL and send to GA4.
+  function identifyAndSendCanonicalUrl() {
     let determinedCanonicalUrl = window.location.href; // Default to current page URL
     const rawHrefFromTag = getCanonicalFromHtmlTag();
 
@@ -108,11 +105,14 @@
     // If rawHrefFromTag was null (no valid canonical tag found),
     // determinedCanonicalUrl also remains window.location.href (the default).
 
-    setCanonicalUrlForGa4(determinedCanonicalUrl);
+    sendToGa4(determinedCanonicalUrl);
   }
 
-  // Execute the main identification and setting logic.
-  // This script is intended to be placed at the end of the <head>,
-  // so the <link rel="canonical"> tag should be available by this point.
-  identifyAndSetCanonicalUrl();
+  // Execute the main identification and sending logic.
+  // Waits for DOMContentLoaded if the document is still loading to ensure <head> is available.
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", identifyAndSendCanonicalUrl);
+  } else {
+    identifyAndSendCanonicalUrl();
+  }
 })(); // Immediately Invoked Function Expression (IIFE) to avoid global scope pollution
