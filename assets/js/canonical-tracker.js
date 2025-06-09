@@ -37,7 +37,7 @@
     } else {
       // Neither gtag.js nor dataLayer found, log a warning.
       console.warn(
-        `Canonical Tracker: GA4 tracking (gtag.js or GTM dataLayer) not found. Canonical URL identified ('${canonicalUrl}') but not set as a GA4 parameter.`
+        `Canonical Tracker: GA4 tracking (gtag.js or GTM dataLayer) not found. Canonical URL identified ('${canonicalUrl}') but not set as a GA4 parameter.`,
       );
     }
   }
@@ -76,7 +76,7 @@
       );
       if (allCanonicalTags.length > 1) {
         console.warn(
-          `Canonical Tracker: Multiple <link rel="canonical\"> tags found (${allCanonicalTags.length}). Using the first one encountered in the DOM.`
+          `Canonical Tracker: Multiple <link rel="canonical\"> tags found (${allCanonicalTags.length}). Using the first one encountered in the DOM.`,
         );
       }
 
@@ -112,10 +112,7 @@
   }
 
   // Execute the main identification and setting logic.
-  // Waits for DOMContentLoaded if the document is still loading to ensure <head> is available.
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", identifyAndSetCanonicalUrl);
-  } else {
-    identifyAndSetCanonicalUrl();
-  }
+  // This script is intended to be placed at the end of the <head>,
+  // so the <link rel="canonical"> tag should be available by this point.
+  identifyAndSetCanonicalUrl();
 })(); // Immediately Invoked Function Expression (IIFE) to avoid global scope pollution
