@@ -1,12 +1,23 @@
-<script src="{{ "/assets/js/canonical-tracker.js" | relative_url }}"></script>
-
 <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"
+></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-  gtag('config', '{{ site.google_analytics }}');
+    // Set canonical URL for pageview
+    const canonicalUrl = document.querySelector('link[rel="canonical"]')?.href;
+    if (canonicalUrl) {
+        gtag("config", "{{ site.google_analytics }}", {
+            page_location: canonicalUrl,
+        });
+    } else {
+        gtag("config", "{{ site.google_analytics }}");
+    }
 </script>
 <!-- End Google Analytics -->
