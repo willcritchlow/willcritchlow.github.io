@@ -14,7 +14,7 @@
     const canonicalUrl = document.querySelector('link[rel="canonical"]')?.href;
     if (canonicalUrl) {
         gtag("config", "{{ site.google_analytics }}", {
-            page_location: canonicalUrl,
+            page_canonical_url: canonicalUrl,
         });
     } else {
         gtag("config", "{{ site.google_analytics }}");
