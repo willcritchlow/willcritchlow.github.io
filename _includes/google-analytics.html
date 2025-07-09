@@ -11,13 +11,11 @@
     gtag("js", new Date());
 
     // Set canonical URL for pageview
-    const canonicalUrl = document.querySelector('link[rel="canonical"]')?.href;
-    if (canonicalUrl) {
-        gtag("config", "{{ site.google_analytics }}", {
-            page_canonical_url: canonicalUrl,
-        });
-    } else {
-        gtag("config", "{{ site.google_analytics }}");
-    }
+    const canonicalUrl =
+        document.querySelector('link[rel="canonical"]')?.href ||
+        window.location.href;
+    gtag("config", "{{ site.google_analytics }}", {
+        page_canonical_url: canonicalUrl,
+    });
 </script>
 <!-- End Google Analytics -->
